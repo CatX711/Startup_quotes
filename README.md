@@ -2,7 +2,7 @@
 
 <br />
 
-Echo a random inspirational quote (like: "Never code in Haskell") every time a new terminal is opened. <br />
+Echo a random inspirational quote `(like: "Never code in Haskell")` every time a new terminal is opened. <br />
 The quotes file is customisable and you can add whatever you want!
 
 <br />
