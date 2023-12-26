@@ -10,8 +10,7 @@ The quotes file is customisable and you can add whatever you want!
 
 <h6>
 (Note: quotes.txt and ~/.zshrc must both be in the $HOME directory. <br />
-If quotes isnt, change `local quotes_file="$HOME/quotes.txt"` <br />
-to the path of your quotes file.)
+If quotes isnt, change    `local quotes_file="$HOME/quotes.txt"`   to the path of your quotes file.)
 </h6>
 
 <br />
