@@ -1,0 +1,7 @@
+Never code in Haskell
+It's impossible to center a div
+Talk is cheap, show me the code. - Linus Torvalds
+Programming is thinking, not typing. - Casey Patton
+Coding is the language of the future. - Reshma Saujani
+Debugging is like detective work. - Leslie Lamport
+
