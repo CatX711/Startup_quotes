@@ -8,10 +8,10 @@ The quotes file is customisable and you can add whatever you want!
 <br />
 <br />
 
-<h5>
+<h6>
 (Note: quotes.txt and ~/.zshrc must both be in the $HOME directory. If quotes isnt, change `local quotes_file="$HOME/quotes.txt"` <br />
 to the path of your quotes file.)
-</h5>
+</h6>
 
 <br />
 <br />
