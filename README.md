@@ -1,5 +1,12 @@
 # Startup_quotes
-echo a random quote when the terminal is run
+
+<br />
+
+Echo a random inspirational quote (like: "Never code in Haskell") every time a new terminal is opened. <br />
+The quotes file is customisable and you can add whatever you want!
+
+<br />
+<br />
 
 
 
